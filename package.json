@@ -15,6 +15,7 @@
     "clean-css-brunch": "~2.0.0",
     "css-brunch": "~2.0.0",
     "javascript-brunch": "~2.0.0",
+    "phoenix_js": "0.0.3",
     "uglify-js-brunch": "~2.0.1"
   }
 }
